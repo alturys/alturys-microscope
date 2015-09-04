@@ -21,7 +21,8 @@ body {
 }
 
 .navbar {
-  margin-bottom: 10px; }
+  margin-bottom: 20px;
+}
   /* line 32, ../sass/style.scss */
   .navbar .navbar-inner {
     border-radius: 0px 0px 3px 3px; }
@@ -75,7 +76,8 @@ body {
   .post .discuss {
     display: block;
     float: right;
-    margin-top: 7px; }
+    margin-top: 7px;
+    clear: both;}
 
 .comments {
   list-style-type: none;
